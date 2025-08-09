@@ -32,3 +32,35 @@ At least half of the links will always be broken.
     - 305 [broken link](https://www2.hawaii.edu/~cmutnik) for `www2` address 
     - [generative_art](https://github.com/cmutnik/generative_art)
     - 399 -- [Supernovae](https://github.com/cmutnik/supernova/blob/master/Cmutnik_Supernova_ASTR399.pdf)
+
+10. Quick / tmp stuff
+    - **Mutli-Output Surrogate Modeling with Uncertainty Quantification**
+      - Repo link: [https://github.com/takotime808/multioutreg](https://github.com/takotime808/multioutreg)
+      - Deployment links: 
+        - [https://multioutreg-report.streamlit.app/](https://multioutreg-report.streamlit.app/)
+        - [https://multioutreg-sample.streamlit.app/](https://multioutreg-sample.streamlit.app/)
+    - **danigirl**
+      - Repo link: [https://github.com/takotime808/danigirl](https://github.com/takotime808/danigirl)
+      - Deployment link: [https://takotime808.github.io/danigirl/](https://takotime808.github.io/danigirl/)
+    - **Ds Beach Engagement Photo Editor**
+      - Repo link: [https://github.com/takotime808/Ds-quick-photo-editor](https://github.com/takotime808/Ds-quick-photo-editor)
+      - Deployment link: [https://ds-quick-edits.streamlit.app/](https://ds-quick-edits.streamlit.app/)
+    - **Mut Adventure Globe**
+      - Repo link: [https://github.com/takotime808/mutnik_adventures](https://github.com/takotime808/mutnik_adventures)
+      - Deployment link: [https://takotime808.github.io/mutnik_adventures/](https://takotime808.github.io/mutnik_adventures/)
+    - **Simple AI-Mon Tower Defense Game**
+      - Repo link: [https://github.com/takotime808/aimon](https://github.com/takotime808/aimon)
+      - Deployment link: [https://takotime808.github.io/aimon/](https://takotime808.github.io/aimon/)
+    - **fossil-tycoon**
+      - Repo link: [https://github.com/takotime808/fossil-tycoon](https://github.com/takotime808/fossil-tycoon)
+    - **GFPGAN App**
+      - Repo link: [https://github.com/takotime808/gfpgan_streamlit_io](https://github.com/takotime808/gfpgan_streamlit_io)
+      - Deployment link: [https://gfpgan.streamlit.app/](https://gfpgan.streamlit.app/)
+    - **distquant / ks-dist-test**
+      - Repo link: [https://github.com/takotime808/ks_streamlit_example](https://github.com/takotime808/ks_streamlit_example)
+      - Deployment links: 
+        - [https://distributions-and-metrics.streamlit.app/](https://distributions-and-metrics.streamlit.app/)
+        - [https://ksappexample-hamcfkj5pumappu56f5xqe.streamlit.app/](https://ksappexample-hamcfkj5pumappu56f5xqe.streamlit.app/)
+    <!-- - 
+      - Repo link: []()
+      - Deployment link: []() -->
