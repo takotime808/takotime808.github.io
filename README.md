@@ -1,5 +1,53 @@
-# Dem Links #
-At least half of the links will always be broken.
+# Dem Links
+*At least half of the links will always be broken.*
+
+## Apps:
+- **Flutter**
+  - (Currently all private repos on `cmutnik` account.)
+- **PWA**
+  - [Mutnik Adventure](https://takotime808.github.io/mutnik_adventures/)
+  - [Takophotos](https://cmutnik.github.io/takophotos/)
+  - [DaniGirl](https://takotime808.github.io/danigirl/)
+  - Math Quest [v1](https://takotime808.github.io/math-quest/) & [v2](https://takotime808.github.io/math-quest/math-quest-ultimate/index.html)
+
+
+## Notable Sites
+
+**Mutnik Adventure Globe**
+- Repo link: [https://github.com/takotime808/mutnik_adventures](https://github.com/takotime808/mutnik_adventures)
+- Deployment link: [https://takotime808.github.io/mutnik_adventures/](https://takotime808.github.io/mutnik_adventures/)
+
+**Ds Beach Engagement Photo Editor**
+- Repo link: [https://github.com/takotime808/Ds-quick-photo-editor](https://github.com/takotime808/Ds-quick-photo-editor)
+- Deployment link: [https://ds-quick-edits.streamlit.app/](https://ds-quick-edits.streamlit.app/)
+
+**Mutli-Output Surrogate Modeling with Uncertainty Quantification**
+- Repo link: [https://github.com/takotime808/multioutreg](https://github.com/takotime808/multioutreg)
+- Deployment links:
+    - [https://multioutreg-report.streamlit.app/](https://multioutreg-report.streamlit.app/)
+    - [https://multioutreg-sample.streamlit.app/](https://multioutreg-sample.streamlit.app/)
+
+**distquant / ks-dist-test**
+- Repo link: [https://github.com/takotime808/ks_streamlit_example](https://github.com/takotime808/ks_streamlit_example)
+- Deployment links:
+    - [https://distributions-and-metrics.streamlit.app/](https://distributions-and-metrics.streamlit.app/)
+    - [https://ksappexample-hamcfkj5pumappu56f5xqe.streamlit.app/](https://ksappexample-hamcfkj5pumappu56f5xqe.streamlit.app/)
+
+**Star Map and Dream-catcher Generator**
+- [https://github.com/cmutnik/star_map/tree/star-map-to-3d-printable-dreamcatcher](https://github.com/cmutnik/star_map/tree/star-map-to-3d-printable-dreamcatcher)
+  - Repo info:
+    - [public repo](https://github.com/cmutnik/star_map/)
+    - [current branch](https://github.com/cmutnik/star_map/tree/star-map-to-3d-printable-dreamcatcher?tab=readme-ov-file): `star-map-to-3d-printable-dreamcatcher`
+  - Deployments:
+    - shinyapps for star map generation: [https://takotime808.shinyapps.io/star_map/](https://takotime808.shinyapps.io/star_map/)
+    - streamlit for black and white image extruded to model: [https://starmapdreamcatcher.streamlit.app/](https://starmapdreamcatcher.streamlit.app/)
+    - OLD, but active, deployment (from what is currently on `main`): [https://stardreamcatcher.streamlit.app/](https://stardreamcatcher.streamlit.app/)
+
+
+
+----
+## DEDUPLICATE Below with Above
+
 
 1. [https://en.wikipedia.org/wiki/Zeta_Andromeda_Galaxy](https://takotime808.github.io/the_real_wikipedia/)
     - The truth is out there.
